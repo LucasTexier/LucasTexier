@@ -4,8 +4,8 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![github: Lucas Texier](img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasTexier/LucasTexier/)
-[![Linkedin: Lucas Texier](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-texier/)]
+![github: Lucas Texier](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasTexier/LucasTexier/)
+![Linkedin: Lucas Texier](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-texier/)
 
 ```java
 class Lucas extends Student {
