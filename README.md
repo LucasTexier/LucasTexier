@@ -7,7 +7,6 @@
 ![github: Lucas Texier](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasTexier/LucasTexier/)
 ![Linkedin: Lucas Texier](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-texier/)
 
-```java
 class Lucas extends Student {
     
     final String username;
