@@ -16,7 +16,7 @@
   <ul>
     <li>Mathematics</li>
     <li>Computer Science</li>
-    <li>Football</li>
+    <li>Soccer</li>
     <li>Fishing</li>
   </ul>
 
