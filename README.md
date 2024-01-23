@@ -10,7 +10,7 @@
   <h1>Presentation</h1>
 
   <h2>Computer Engineering Student with a specialization in Artificial Intelligence</h2>
-  <p>I am a computer engineering student with a specialization in artificial intelligence. I have a passion for applying AI technologies to solve complex problems and create innovative solutions.</p>
+  <p>Computer engineering student with a specialization in artificial intelligence. I have a passion for applying AI technologies to solve complex problems and create innovative solutions.</p>
 
   <h2>Passions</h2>
   <ul>
